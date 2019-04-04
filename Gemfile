@@ -53,6 +53,7 @@ gem "therubyracer"
 gem "foundation-rails",'5.2.1.0'
 gem 'hirb'
 gem 'thin'
+gem "json", '1.8.1'
 gem 'carrierwave'
 gem "mini_magick"
 gem "select2-rails", '3.5.4'
